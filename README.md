@@ -22,9 +22,8 @@ Website: https://kch0310.github.io/Richy-/website.html
 
 
 
-ㅁ REFERENCE SITE 
+※ REFERENCE SITE 
 
-<데이터 수집 및 전처리> : 
 
 공공데이터포털
 
