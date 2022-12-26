@@ -2,12 +2,15 @@
 
 Youtube link : https://www.youtube.com/watch?v=8-pdCZ5a9M4&t=329s
 
+
 ● OUTPUT SITE
 
 Website: https://kch0310.github.io/Richy-/website.html
 
-●TEAM MEMBERS
+
+● TEAM MEMBERS
 : 김준석, 김창현, 이승연, 정준우
+
 
 <선정 주제> 민간 공사장 현황 지도:
 
@@ -22,7 +25,7 @@ Website: https://kch0310.github.io/Richy-/website.html
 
 
 
-※ REFERENCE SITE 
+● REFERENCE SITE 
 
 
 공공데이터포털
