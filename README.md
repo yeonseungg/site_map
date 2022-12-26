@@ -1,12 +1,13 @@
-● presentation 
+● PRESENTATION
 
 Youtube link : https://www.youtube.com/watch?v=8-pdCZ5a9M4&t=329s
 
-●Output site
+● OUTPUT SITE
 
 Website: https://kch0310.github.io/Richy-/website.html
 
-
+●TEAM MEMBERS
+: 김준석, 김창현, 이승연, 정준우
 
 <선정 주제> 민간 공사장 현황 지도:
 
@@ -21,18 +22,20 @@ Website: https://kch0310.github.io/Richy-/website.html
 
 
 
-<데이터 수집 및 전처리> : 참고 사이트  
+●REFERENCE SITE 
 
-●공공데이터포털
+<데이터 수집 및 전처리> : 
 
-●은평구 공사장 데이터 http://stat.ep.go.kr/wt/wt50/wt501020.do?data_meta_id=219#read/page=1&perPage=100
+- 공공데이터포털
 
-●성동구 공사장 데이터 https://www.data.go.kr/data/15071923/fileData.do
+- 은평구 공사장 데이터 http://stat.ep.go.kr/wt/wt50/wt501020.do?data_meta_id=219#read/page=1&perPage=100
 
-●서울시 공사 추진현황 https://data.seoul.go.kr/dataList/OA-2540/S/1/datasetView.do
+- 성동구 공사장 데이터 https://www.data.go.kr/data/15071923/fileData.do
 
-●생활안전지도 https://www.safemap.go.kr/main/smap.do?flag=
+- 서울시 공사 추진현황 https://data.seoul.go.kr/dataList/OA-2540/S/1/datasetView.do
 
-●구글 확장자 프로그램(Geocode by Awesome Table) https://support.awesome-table.com/hc/en-us/sections/360000012309-Geocode
+- 생활안전지도 https://www.safemap.go.kr/main/smap.do?flag=
 
-●위도 경도 변환 사이트 https://www.deveapp.com/map.php
+- 구글 확장자 프로그램(Geocode by Awesome Table) https://support.awesome-table.com/hc/en-us/sections/360000012309-Geocode
+
+- 위도 경도 변환 사이트 https://www.deveapp.com/map.php
